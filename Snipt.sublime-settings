@@ -1,4 +1,6 @@
 /* Snipt settings  */
 {
-    "snipt_username": "mccombs"
+    "snipt_username": "",
+    "snipt_userid": "",
+    "snipt_apikey": ""
 }
